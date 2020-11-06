@@ -1,9 +1,9 @@
-# Supplementary material for paper:
-
+### Supplementary material for paper:
 “IMPROVING AUTOMATIC DRUM TRANSCRIPTION USING LARGE-SCALE AUDIO-TO-MIDI ALIGNED DATA”
+
 ----------------
 
-***  IMPORTANT NOTICE !!  *** <br />
+###  ***  IMPORTANT NOTICE !!  *** <br />
 The numbers reported in the third column of Table 2 (B-CNN, 3-fold) in our paper are wrong. They should be 0.75, 0.72, and 0.60 for the three public datasets (marked red below)
 
 
