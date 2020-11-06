@@ -1,5 +1,6 @@
-* Supplementary material for paper:  <br />
-*** “IMPROVING AUTOMATIC DRUM TRANSCRIPTION USING LARGE-SCALE AUDIO-TO-MIDI ALIGNED DATA” ***
+# Supplementary material for paper:
+
+“IMPROVING AUTOMATIC DRUM TRANSCRIPTION USING LARGE-SCALE AUDIO-TO-MIDI ALIGNED DATA”
 ----------------
 
 ***  IMPORTANT NOTICE !!  *** <br />
