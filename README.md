@@ -26,4 +26,6 @@ In our work, we accidentally report B-CNN (3-fold) evaluation result under scena
 
 - Song demo: We provide three demo songs for model comparison. In the demo songs, the original drum track is replaced with re-syntheszed drum track using transcription results from different models. It should be noted that only three basic drum instruments (i.e., kick drum, snare drum, hihat) are used in the the re-synthesized track. Please check directory `demo_songs` for audio tracks.
 
-
+<img src="https://raw.githubusercontent.com/Sma1033/adt_with_a2md/main/demo_songs/song01_tenderness/tracks.png" style="zoom:70%" />
+<img src="https://raw.githubusercontent.com/Sma1033/adt_with_a2md/main/demo_songs/song02_billie_jean/tracks.png" style="zoom:70%" />
+<img src="https://raw.githubusercontent.com/Sma1033/adt_with_a2md/main/demo_songs/song03_faith/tracks.png" style="zoom:70%" />
