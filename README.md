@@ -1,4 +1,4 @@
-**Supplementary material for paper: 
+**Supplementary material for paper:  <br />
 “IMPROVING AUTOMATIC DRUM TRANSCRIPTION USING LARGE-SCALE AUDIO-TO-MIDI ALIGNED DATA”**
 ----------------
 
