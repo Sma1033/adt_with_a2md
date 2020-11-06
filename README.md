@@ -22,7 +22,7 @@ In our work, we accidentally report B-CNN (3-fold) evaluation result under scena
 
 - Penalty search: A Python script to demo the process of penalty value (as similarity measurement) retrieval for a given audio pair. Please check file `penalty_search.ipynb` for more details.
 
-- A2MD dataset: 1565 Youtube downloaded tracks and their aligned MIDI files are provided in a single zip file. The audio/MIDI files are categorized into seven groups based on the retrieved penalty values. download link is provided here: <br />https://drive.google.com/uc?export=download&id=1ZRbLz7aaJibd9F121LLn_yKPmgtYUqHu <br />
+- A2MD dataset: 1565 Youtube downloaded tracks and their aligned MIDI files are provided in a single zip file. The audio/MIDI files are categorized into seven groups based on the retrieved penalty values. A2MD download link: <br />https://drive.google.com/uc?export=download&id=1ZRbLz7aaJibd9F121LLn_yKPmgtYUqHu <br />
 
 - Song demo: We provide three demo songs for model comparison. In the demo songs, the original drum track is replaced with re-syntheszed drum track using transcription results from different models. It should be noted that only three basic drum instruments (i.e., kick drum, snare drum, hihat) are used in the the re-synthesized track. Please check directory `demo_songs` for audio tracks.
 
