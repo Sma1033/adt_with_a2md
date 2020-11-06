@@ -15,7 +15,7 @@ In our work, we accidentally report B-CNN (3-fold) evaluation result under scena
 
 ----------------
 
-###  materials provided in this page: <br />
+### Accompanying materials: <br />
 
-- penalty search: A script to obtain a penalty value (as similarity measurement) for a given audio pair.
+- penalty search: A script to obtain a penalty value (as similarity measurement) for a given audio pair. Please check `penalty_search.ipynb`
 
