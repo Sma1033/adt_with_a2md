@@ -24,3 +24,4 @@ In our work, we accidentally report B-CNN (3-fold) evaluation result under scena
 - Song demo: We provide three demo songs for model comparison. In the demo songs, the original drum track is replaced with re-syntheszed drum track using transcription results from different models. It should be noted that only three basic drum instruments (i.e., kick drum, snare drum, hihat) are used in the the re-synthesized track. Please check directory `demo_songs` for audio tracks.
 
 
+[5]  Richard Vogl, Gerhard Widmer, and Peter Knees,  “To-wards multi-instrument drum transcription,” inProceed-ings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
