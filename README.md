@@ -19,4 +19,4 @@ In our work, we accidentally report B-CNN (3-fold) evaluation result under scena
 
 - penalty search: A demo ipynb script to obtain a penalty value (as similarity measurement) for a given audio pair. Please check `penalty_search.ipynb` for more details.
 
-- A2MD dataset: Youtube downloaded tracks and their aligned MIDI files. The files are categorized into seven groups based on the retrieved penalty values. download link is provided here[https://drive.google.com/uc?export=download&id=1ZRbLz7aaJibd9F121LLn_yKPmgtYUqHu]
+- A2MD dataset: Youtube downloaded tracks and their aligned MIDI files. The files are categorized into seven groups based on the retrieved penalty values. download link is provided here: <br />https://drive.google.com/uc?export=download&id=1ZRbLz7aaJibd9F121LLn_yKPmgtYUqHu <br />
