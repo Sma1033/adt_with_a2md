@@ -13,6 +13,9 @@ The error is due to the misunderstanding of training material employed in the th
 `[ii]  3-fold, train on a combination of three public datasets (ENST + MDB-Drums + RBMA13) ` <br />
 In our work, we accidentally report B-CNN (3-fold) evaluation result under scenario [i] and compare it with the CNN/CRNN evaluation results using [ii]. The unfair comparison between models may give readers misleading ideas when analyzing the difference between models. To fix this, we re-run a three-fold validation test on our B-CNN (3-fold) model using [ii] and report the latest result in the new Table 2 presented above. In our final version paper, we will update the numbers accordingly. <br />
 
+<br />
+[5] Richard Vogl, Gerhard Widmer, and Peter Knees,  “To-wards multi-instrument drum transcription,” inProceed-ings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
+
 ----------------
 
 ### Accompanying materials: <br />
@@ -24,4 +27,3 @@ In our work, we accidentally report B-CNN (3-fold) evaluation result under scena
 - Song demo: We provide three demo songs for model comparison. In the demo songs, the original drum track is replaced with re-syntheszed drum track using transcription results from different models. It should be noted that only three basic drum instruments (i.e., kick drum, snare drum, hihat) are used in the the re-synthesized track. Please check directory `demo_songs` for audio tracks.
 
 
-[5] Richard Vogl, Gerhard Widmer, and Peter Knees,  “To-wards multi-instrument drum transcription,” inProceed-ings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
