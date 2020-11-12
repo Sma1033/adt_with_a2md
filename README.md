@@ -12,7 +12,7 @@ The results in Table 2 still verify the effectiveness of the proposed model desp
 This error was due to the inconsistent configuration of the 3-fold cross validation process. In the previous work [1], the evaluation results based on two different 3-fold strategies were reported on their complementary website (http://ifs.tuwien.ac.at/~vogl/dafx2018/): <br />
 `[i]  sepearate 3-fold -- 3-fold cross validation on each of the public datasets (ENST / MDB-Drums / RBMA13) ` <br />
 `[ii] joint 3-fold -- combine all public datasets and perform 3-fold cross validation jointly. ` <br />
-In our submitted manuscript, we included the results of CNN/CRNN (3-fold) [1] under scenario [ii] in our Table 2 for comparison. However, we incorrectly reported the results of B-CNN (3-fold) under scenario [i], which was inconsistent with [1]. To avoid confusions and ensure the compatibility of the results, we have updated the table (as shown above) and will correct the numbers in the manuscript accordingly. <br />
+In our submitted manuscript, we included the results of CNN/CRNN (3-fold) [1] under scenario [ii] in our Table 2 for comparison. However, we incorrectly reported the results of B-CNN (3-fold) under scenario [i], which was inconsistent with [1]. To avoid confusions and ensure the compatibility of the results, we have updated the table (as shown above) and will correct the numbers in the manuscript accordingly. Note that the updated results in Table 2 are coherent with our observations and do not change our conclusions in the submitted manuscript. <br />
 
 <br />
 [1] Richard Vogl, Gerhard Widmer, and Peter Knees,  “To-wards multi-instrument drum transcription,” in Proceedings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
