@@ -15,7 +15,7 @@ This error was due to the inconsistent configuration of the 3-fold cross validat
 In our submitted manuscript, we included the results of CNN/CRNN (3-fold) [1] under scenario [ii] in our Table 2 for comparison. However, we incorrectly reported the results of B-CNN (3-fold) under scenario [i], which was inconsistent with [1]. To avoid confusions and ensure the compatibility of the results, we have updated the table (as shown above) and will correct the numbers in the manuscript accordingly. Note that the updated results in Table 2 are coherent with our observations and do not change our conclusions in the submitted manuscript. <br />
 
 <br />
-[1] Richard Vogl, Gerhard Widmer, and Peter Knees,  “Towards multi-instrument drum transcription,” in Proceedings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
+[1] Richard Vogl, Gerhard Widmer, and Peter Knees,  “Towards multi-instrument drum transcription,” in Proceedings of International Conference on Digital Audio Effects (DAFx), 2018.
 
 ----------------
 
