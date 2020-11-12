@@ -4,18 +4,18 @@
 ----------------
 
 ###  ***  IMPORTANT CORRECTION !!  *** <br />
-The numbers reported in the third column of Table 2 (B-CNN, 3-fold) are presented improperly. They should be 0.75, 0.72, and 0.60 for the three public datasets (marked red below).
+The numbers reported in the third column of Table 2 (B-CNN, 3-fold) are presented improperly. They should be 0.75, 0.72, and 0.60 (marked in red below) for the three public datasets.
 The results in Table 2 still verify the effectiveness of the proposed model despite the correction.
 
 <img src="https://raw.githubusercontent.com/Sma1033/adt_with_a2md/main/pics/new_table2.png" style="zoom:70%" />
 
-The error is due to the inconsistency of training material employed in the three-fold validation process. In the previous work [5], there are two different three-fold validation strategy: <br />
-`[i]   3-fold, both train/test process are performed on each single dataset ` <br />
-`[ii]  3-fold, train on a combination of three public datasets (ENST + MDB-Drums + RBMA13) ` <br />
-In the submitted manuscript, we accidentally report B-CNN (3-fold) evaluation result under scenario [i] and compare it with the CNN/CRNN evaluation results using [ii].  To avoid any misleading ideas from such inconsistent comparison, we re-run a three-fold validation test on our B-CNN (3-fold) model using [ii] and report the latest result in the new Table 2 presented above. In our final version paper, we will update the numbers accordingly. <br />
+This error was due to the inconsistent configuration of the 3-fold cross validation process. In the previous work [1], the evaluation results based on two different 3-fold strategies were reported on their complementary website (http://ifs.tuwien.ac.at/~vogl/dafx2018/): <br />
+`[i] sepearate 3-fold -- perform the 3-fold cross validation on each of the public datasets (ENST + MDB-Drums + RBMA13) ` <br />
+`[ii]joint 3-fold -- combine all public datasets and perform 3-fold cross validation jointly. ` <br />
+In our submitted manuscript, we included the results of CNN/CRNN (3-fold) [1] under scenario [ii] in our Table 2 for comparison. However, we incorrectly reported the results of B-CNN (3-fold) under scenario [i], which was inconsistent with [1]. To avoid confusions and ensure the compatibility of the results, we have updated the table (as shown above) and will correct the numbers in the manuscript accordingly. <br />
 
 <br />
-[5] Richard Vogl, Gerhard Widmer, and Peter Knees,  “To-wards multi-instrument drum transcription,” inProceed-ings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
+[1] Richard Vogl, Gerhard Widmer, and Peter Knees,  “To-wards multi-instrument drum transcription,” in Proceedings of International Conference on Digital Audio Ef-fects (DAFx), 2018.
 
 ----------------
 
