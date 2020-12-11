@@ -21,7 +21,7 @@ In our submitted manuscript, we included the results of CNN/CRNN (3-fold) under 
 
 ### Accompanying materials: <br />
 
-- Drum transcription tool: The implemented ADT system is integrated in python package [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart){:target="_blank"}.
+- Drum transcription tool: The implemented ADT system is integrated in python package [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart).
 
 - Penalty search: A Python script to demo the process of penalty value retrieval for a given audio pair. Please check file `penalty_search.ipynb` for more details.
 
